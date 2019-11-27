@@ -1,0 +1,11 @@
+{
+    "translations" : {
+      "Welcome to React Translation": "Welcome to React Translate arabic.",
+      "This is test view": "This is the test view.",
+      "test":"اختبار",
+      "artistName":"اسم المطرب",
+      "artistCountry":"بلد المطرب",
+      "music":"الموسيقي",
+      "albumsNo":"عدد الالبومات"
+    }
+  }
